@@ -1,0 +1,91 @@
+body{
+height: 50px;
+
+
+}
+
+header{
+padding-left: 10px;
+background-color: lightpink;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+
+}
+
+.logo{
+font-size: 50px;
+display: inline-block;
+color: red;
+margin-right: 30px;
+vertical-align: middle;
+
+}
+
+nav{
+display: inline-block;
+vertical-align: middle;
+
+}
+
+li{display: inline-block;
+margin-right: 20px;
+font-size: 18px;
+
+}
+
+li a{
+color: rgb(0, 0, 0);
+
+}
+
+h2{
+font-size: 25px;
+margin-top: 50px;
+background-color: darkseagreen;
+
+}
+
+.myh2{
+position: sticky;
+background-color: red;
+z-index: -1;
+
+}
+.mshobeli{
+margin-top: 100px;
+width: 500px;
+height: 500px;
+background-color: blue;
+position: relative;
+
+
+
+}
+.shvili{
+position: absolute;
+width: 100px;
+height: 100px;
+
+}
+.green{
+    background-color: green;
+    top: 0px;
+    right: 0;
+
+}
+
+
+.red{
+background-color: rgb(225, 5, 5);
+top: 200px;
+left: 20px;
+
+
+}
+.yellow{
+background-color: yellow;
+
+}
+/* section 2 */
